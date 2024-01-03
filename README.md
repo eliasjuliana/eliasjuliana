@@ -4,20 +4,8 @@ I'm a front-end web developer with a strong background in Biotechnology and a Ph
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap, express, mongodb, nodejs, r, react, tailwind, typescript)](https://skillicons.dev)
+[My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap, express, mongodb, nodejs, r, react, tailwind, typescript)](https://skillicons.dev)
 
- /* - ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png)
-  - ![React](url_to_react_image)
-  - ![Node.js](url_to_node_image)
-  - ![MongoDB](url_to_mongodb_image)
-  - ![Express](url_to_express_image)
-
-
-  - JavaScript
-  - React
-  - Node.js
-  - MongoDB
-  - Express */
 
 
 ## Contributions and Projects
