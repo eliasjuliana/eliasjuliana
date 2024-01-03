@@ -4,7 +4,11 @@ I'm a front-end web developer with a strong background in Biotechnology and a Ph
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap, express, mongodb, nodejs, r, react, tailwind, typescript)](https://skillicons.dev)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap, express, mongodb, r" />
+  </a>
+</p>
 
 
 
