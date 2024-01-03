@@ -6,7 +6,7 @@ I'm a front-end web developer with a strong background in Biotechnology and a Ph
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap, express, mongodb, r," />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap,express, mongodb, r" />
   </a>
 </p>
 
