@@ -21,12 +21,11 @@ I'm excited about contributing to dynamic teams and participating in impactful p
 Feel free to reach out! I'm open to conversations, collaborations, and new friendships in the world of development and science.
 
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://www.linkedin.com/in/eliasjuliana91/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  https://www.linkedin.com/in/eliasjuliana91/
 </p>
-
-(https://www.linkedin.com/in/eliasjuliana91/)
 
 Thanks for visiting my profile! 😊
 
